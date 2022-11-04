@@ -1,4 +1,3 @@
 # odin-recipes
-Create a html document that will display a website for a recipe
-This exercise will consolidate my html learnings
-Familiarise with unordered and ordered lists
+Create a website comprising of recipes of my favourite foods.
+This project consolidates html learnings including ordered and unordered lists
